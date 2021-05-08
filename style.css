@@ -1,0 +1,30 @@
+div {
+    /*background: red;*/
+    padding: 20px;
+    margin: 20px;
+    border: 3px dashed black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+.red {
+    background-color: red;
+}
+
+div {
+    background-color: blue;
+}
+
+#main-header {
+    font-size: 56px;
+}
+
+#main-header:hover {
+    font-size: 66px;
+}
+
+li:nth-child(2n+1) {
+    color: red;
+}
